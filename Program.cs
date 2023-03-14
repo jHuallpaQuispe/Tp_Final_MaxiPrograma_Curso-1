@@ -47,9 +47,9 @@ namespace TPFinal_HuallpaQuispe
             else    
                 Console.WriteLine("EL MAYOR DE LOS NROS PARES ES: " + mayor);
             
-            Console.WriteLine("LA CANTIDAD DE NROS IMPARES ES: "+ cantImpares);
+            Console.WriteLine("LA CANTIDAD DE NROS IMPARES ES: " + cantImpares);
 
-            Console.WriteLine("EL MENOR DE LOS NUMERO PRIMOS FUE: "+ menor);
+            Console.WriteLine("EL MENOR DE LOS NUMERO PRIMOS FUE: " + menor);
         }
 
 
